@@ -5,6 +5,7 @@ class HebbianLearning:
         # Initialize weights randomly
         self.weights = np.random.rand(input_size)
 
+    
     def train(self, X, y, epochs):
         for _ in range(epochs):
             for i in range(len(X)):
