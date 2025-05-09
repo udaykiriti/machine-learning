@@ -14,6 +14,7 @@ cpd_j = TabularCPD(variable='J',variable_card=2,values=[[0.9,0.05],[0.1,0.95]],e
 #marrycalls
 cpd_m = TabularCPD(variable='M',variable_card=2,values=[[0.7,0.01],[0.3,0.99]],evidence=['A'],evidence_card=[2])
 #Adding the CPD's to the model
+
 model.add_cpds(cpd_b,cpd_m,cpd_j,cpd_a,cpd_e)
 print('probability Distribution,P(Burglary)')
 print(cpd_b)
