@@ -9,6 +9,7 @@ import matplotlib.pyplot as plt
 data = pd.read_csv('solar_plant_data.csv')
 
 
+
 data['date'] = pd.to_datetime(data['date'])
 data.set_index('date', inplace=True)
 
