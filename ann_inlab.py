@@ -20,7 +20,6 @@ print(iris_data.dtypes)
 X = iris_data.drop('class', axis=1)
 y = iris_data['class']
 
-# Split the data
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
 # Train the Decision Tree Classifier
