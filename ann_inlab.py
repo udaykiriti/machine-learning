@@ -17,7 +17,6 @@ print(iris_data.describe())
 print("\nData types:")
 print(iris_data.dtypes)
 
-# Prepare features and target
 X = iris_data.drop('class', axis=1)
 y = iris_data['class']
 
