@@ -27,7 +27,6 @@ clf.fit(X_train, y_train)
 
 y_pred = clf.predict(X_test)
 
-# Evaluate the model
 print("\nConfusion Matrix:")
 confusion = confusion_matrix(y_test, y_pred)
 print(confusion)
