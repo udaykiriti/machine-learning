@@ -33,7 +33,6 @@ print(confusion)
 print("\nClassification Report:")
 print(classification_report(y_test, y_pred))
 
-# Visualize the confusion matrix
 sns.heatmap(confusion, annot=True, fmt='d', cmap='Blues', xticklabels=clf.classes_, yticklabels=clf.classes_)
 plt.title('Confusion Matrix')
 plt.xlabel('Predicted')
