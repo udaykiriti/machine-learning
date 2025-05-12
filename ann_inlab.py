@@ -39,7 +39,6 @@ plt.xlabel('Predicted')
 plt.ylabel('Actual')
 plt.show()
 
-# Plot the decision tree
 plt.figure(figsize=(12, 8))
 plot_tree(clf, filled=True, feature_names=X.columns, class_names=clf.classes_)
 plt.title('Decision Tree Visualization')
