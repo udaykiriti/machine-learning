@@ -10,7 +10,6 @@ url = 'https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data'
 columns = ['sepal_length', 'sepal_width', 'petal_length', 'petal_width', 'class']
 iris_data = pd.read_csv(url, header=None, names=columns)
 
-# Display initial data information
 print("First few rows of the dataset:")
 print(iris_data.head())
 print("\nSummary statistics:")
