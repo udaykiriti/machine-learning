@@ -1,4 +1,4 @@
-<h1 align="center">🤖 Machine Learning Vault</h1>
+<h1 align="center"> Machine Learning Vault</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif" width="250" alt="3D AI animation" />
@@ -17,7 +17,7 @@
 
 ---
 
-<h2>📚 About This Repo</h2>
+<h2> About This Repo</h2>
 
 <p>
   A comprehensive collection of machine learning projects, tutorials, and implementations using Python and popular ML libraries. 
@@ -29,7 +29,7 @@
 
 ---
 
-<h2>📂 What's Inside?</h2>
+<h2> What's Inside?</h2>
 
 <ul>
   <li><strong>Supervised Learning:</strong> Implementations of regression, classification algorithms.</li>
@@ -41,7 +41,7 @@
 
 ---
 
-<h2>🚀 Quick Start</h2>
+<h2> Quick Start</h2>
 
 <pre><code>git clone https://github.com/udaykiriti/machine-learning.git
 cd machine-learning
@@ -51,7 +51,7 @@ jupyter notebook
 
 ---
 
-<h2>🛠️ Requirements</h2>
+<h2> Requirements</h2>
 
 <ul>
   <li>Python 3.7+</li>
@@ -61,13 +61,13 @@ jupyter notebook
 
 ---
 
-<h2>⚙️ Usage</h2>
+<h2> Usage</h2>
 
 <p>Run notebooks or scripts to train models, evaluate results, or visualize data. Modify and experiment with parameters to deepen your understanding.</p>
 
 ---
 
-<h2>🧪 Testing</h2>
+<h2> Testing</h2>
 
 <p>Some projects include tests or example runs. Use the following to run tests where applicable:</p>
 
@@ -76,7 +76,7 @@ jupyter notebook
 
 ---
 
-<h2>📢 Contributing</h2>
+<h2> Contributing</h2>
 
 <p>Contributions are highly welcome! Share your machine learning projects, improvements, or bug fixes by forking the repo and submitting pull requests.</p>
 
