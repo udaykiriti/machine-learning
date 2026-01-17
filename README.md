@@ -1,4 +1,4 @@
-<h1 align="center"> Machine Learning Vault</h1>
+<h1 align="center"> Machine Learning</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif" width="250" alt="3D AI animation" />
@@ -20,11 +20,11 @@
 <h2> About This Repo</h2>
 
 <p>
-  A comprehensive collection of machine learning projects, tutorials, and implementations using Python and popular ML libraries. 
+  A collection of machine learning tutorials, and implementations using Python and popular ML libraries. 
 </p>
 
 <p>
-  This repository is perfect for anyone looking to dive into machine learning fundamentals, experiment with models, and build hands-on experience.
+  This repository is for anyone looking to dive into machine learning fundamentals, experiment with models, and build hands-on experience.
 </p>
 
 ---
@@ -35,7 +35,7 @@
   <li><strong>Supervised Learning:</strong> Implementations of regression, classification algorithms.</li>
   <li><strong>Unsupervised Learning:</strong> Clustering, dimensionality reduction techniques.</li>
   <li><strong>Deep Learning:</strong> Neural networks and related projects.</li>
-  <li><strong>Datasets & Notebooks:</strong> Sample datasets and Jupyter notebooks for easy experimentation.</li>
+  <li><strong>Datasets:</strong> Sample datasets for easy experimentation.</li>
   <li><strong>Utilities:</strong> Helper scripts for data preprocessing, visualization, and evaluation.</li>
 </ul>
 
@@ -45,8 +45,6 @@
 
 <pre><code>git clone https://github.com/udaykiriti/machine-learning.git
 cd machine-learning
-# Start exploring notebooks or run Python scripts
-jupyter notebook
 </code></pre>
 
 ---
@@ -55,7 +53,7 @@ jupyter notebook
 
 <ul>
   <li>Python 3.7+</li>
-  <li>Popular ML libraries like <code>scikit-learn</code>, <code>tensorflow</code>, <code>pandas</code>, <code>numpy</code></li>
+  <li>Popular ML libraries like <code>scikit-learn</code>, <code>tensorflow</code>, <code>pandas</code>, <code>numpy</code>, <code>matplotlib</code></li>
   <li>Jupyter Notebook (optional but recommended)</li>
 </ul>
 
