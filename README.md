@@ -65,21 +65,6 @@ cd machine-learning
 
 ---
 
-<h2> Testing</h2>
-
-<p>Some projects include tests or example runs. Use the following to run tests where applicable:</p>
-
-<pre><code>pytest
-</code></pre>
-
----
-
-<h2> Contributing</h2>
-
-<p>Contributions are highly welcome! Share your machine learning projects, improvements, or bug fixes by forking the repo and submitting pull requests.</p>
-
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" alt="Machine Learning inspiration gif" />
 </p>
